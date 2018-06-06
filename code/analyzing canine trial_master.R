@@ -325,6 +325,4 @@ parent <- read_excel("C:/Users/tanyu/Box/SPARK/Comparative trials/Pubmed search/
   #export
   write.csv(primary_subdata, "C:/Users/tanyu/Box/SPARK/Comparative trials/Pubmed search/analysis output/primary_subdata.csv")
   write.csv(abstract_subdata, "C:/Users/tanyu/Box/SPARK/Comparative trials/Pubmed search/analysis output/abstract_subdata.csv")
-
-#test edit
   
